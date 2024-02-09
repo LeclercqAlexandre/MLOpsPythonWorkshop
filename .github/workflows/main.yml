@@ -9,10 +9,10 @@ env:
   PNPM_VERSION: 8.5.1
   PYTHON_VERSION: 3.10.13
   NODE_VERSION: 18
-  AZURE_RESOURCE_GROUP_NAME: "azure-ml-alex"
+  AZURE_RESOURCE_GROUP_NAME: "azure-ml-alexande"
   AZURE_LOCATION: "northeurope"
-  AZURE_ML_WORKSPACE_NAME: "cats-dogs-alex"
-  AZURE_WEBAPP_NAME: "cats-dogs-alex"
+  AZURE_ML_WORKSPACE_NAME: "cats-dogs-alexande"
+  AZURE_WEBAPP_NAME: "cats-dogs-alexande"
   DELETE_WEBAPP: "false"
   DOCKER_API_IMAGE_NAME: "elmoustatchos/mlopspython-api"
   DOCKER_WEBAPP_IMAGE_NAME: "elmoustatchos/mlopspython-webapp"
